@@ -1,0 +1,51 @@
+_id,Task Id,Task Name,Description,Assigned To,Due Date,Priority,Status,Category,Creation Date,Completion Date,Notes
+65a966fc58b8be6e6a5c25c3,1,Project Kickoff,Initiate Project Planning,John Doe,2/1/2024,High,In progress,Work,1/15/2024,            -,Meeting scheduled for details
+65a966fc58b8be6e6a5c25c4,2,Report Sbmission,Submit monthly report,Emily Smith,2/10/2024,Medium,Not Started,Work,1/20/2024,         -,Gather Data for analysis
+65a966fc58b8be6e6a5c25c5,3,Grocery Shopping,Purchase grocieries,Jane Johnson,1/25/2024,Medium,Completed,Personal,1/18/2024,1/22/2024,Bought items on sale
+65a966fc58b8be6e6a5c25c6,4,Website Redesign,Redesign company website,Alex Brown,1/31/2024,High,Not Started,Personal,1/25/2024,                  -,Research Latest design trends
+65a966fc58b8be6e6a5c25c7,5,Exercise Routine,Follow dsily workout routine,    - ,2/5/2024,In progress,In progress,Work,1/10/2024,           -,Cardio and strength training
+65a966fc58b8be6e6a5c25c8,6,Budget Planning,Prepare budget for upcoming quarter,Sarah Miller,2/8/2024,High,Completed,Personal,1/28/2024,2/1/2024,Finalized expenses and projections
+65a966fc58b8be6e6a5c25c9,7,Client Meeting,Attend meeting with potential client,Mark Taylor,1/12/2024,High,In progress,Work,1/30/2024,               -,Review project requirements
+65a966fc58b8be6e6a5c25ca,8,Book Club Reading,Read assined book for book club meeting,      -,12/2/2024,Low,Not Started,Work,1/30/2024,                -,Check local library for availability
+65a966fc58b8be6e6a5c25cb,9,Blog Post Writing,write a blog post on industry treads,Jessica Green,2/18/2024,Medium,Not Started,Personal,1/22/2024,                -,Research and outline key points
+65a966fc58b8be6e6a5c25cc,10,Home Repairs,Fix leaking faucet in the kitchen,James White,1/30/2024,Medium,Completed,Work,2/1/2024,1/28/2024,Replaced faulty valve
+65a966fc58b8be6e6a5c25cd,11,Software Update,install latest software updates,IT Department,2/5/2024,Medium,In progress,Personal,1/15/2024,              -,Schedule downtime for update
+65a966fc58b8be6e6a5c25ce,12,Language Learing,Practice Spanish vocabulary,      -,2/18/2024,Low,Not Started,Work,1/28/2024,             -,Use language learing app daily
+65a966fc58b8be6e6a5c25cf,13,Team Building Activity,Organize team-building event,Olivia Clark,2/28/2024,High,Not Started,Personal,1/10/2024,             -,Explore local venues for activities
+65a966fc58b8be6e6a5c25d0,14,Health Checkup,Schedule annual health checkup,         -,3/1/2024,Medium,Completed,Work,2/10/2024,2/5/2024,contact healthcare provider for appointment
+65a966fc58b8be6e6a5c25d1,15,Social Media Compaign,Plan and execute a social media compaign,Marketing Team,2/8/2024,High,Not Started,Personal,2/15/2024,               -,Create content calender and graphics
+65a966fc58b8be6e6a5c25d2,16,Data Analysis,Analyse quaterly sales data,Anaytics Team,3/20/2024,High,In progress,Work,1/5/2024,                -,Request data from relevant departments
+65a966fc58b8be6e6a5c25d3,17,Family Movie Night,Organize a family movie night,            -,4/2/2024,Completed,Not Started,Work,2/18/2024,             -,watched a comedy film together
+65a966fc58b8be6e6a5c25d4,18,Website Maintenance,Perform routine maintenance on the website,IT Department,3/10/2024,High,In progress,Personal,1/1/2024,             -,backup website data and check for updates
+65a966fc58b8be6e6a5c25d5,19,Book Keeping,update financial records,Finance Team ,3/1/2024,Medium,Not Started,Work,1/10/2024,               -,Reconcile bank statements
+65a966fc58b8be6e6a5c25d6,20,Gardening,plant new flowers in the garden,Lisa Evans,3/20/2024,Low,Completed,Work,1/15/2024,2/2/2024,visit local nursery for plant selection
+65a966fc58b8be6e6a5c25d7,21,Team Training,Conduct training session for team members,Training Team,2024-03-20T00:00:00.000Z,High,Not Started,Work,01/03/2024,-,prepare Training Materials and Agenda
+65a966fc58b8be6e6a5c25d8,22,Volunteer Work,Participate in Community Cleanup,-,8-3-24,Medium,Not Started,Personal,28-2-24,-,check local community events for details
+65a966fc58b8be6e6a5c25d9,23,project Review,Review progress Of Ongoing Project,project team,25-3-24,High,In progress,Work,10-3-24,-,schedule team meeting for updates
+65a966fc58b8be6e6a5c25da,24,Cooking Experiment,Try Out A new recipe for dinner,-,5-2-24,Low,Completed,Personal,30-1-24,5-2-24,everyone enjoyed the new dish
+65a966fc58b8be6e6a5c25db,25,IT Security Audit,Conduct Security Audit for IT systems,IT security,31-3-24,high,Not Started,Work,15-3-24,-,coordinate with it team for assesment
+65a966fc58b8be6e6a5c25dc,26,Networking Event,Attend industry networking event,Peter Adams,05-04-2024,high,Not Started,Work,20-3-24,-,
+65a966fc58b8be6e6a5c25dd,27,Project Documentation,Update project Documentation,Documentation Team,10-4-24,Medium,Not Started,Work,25-3-24,-,reveiw and update project documentation
+65a966fc58b8be6e6a5c25de,28,BIrthday Celebration,Plan surprise birthday Celebration,-,15-4-2024,Low,Not Started,Personal,1-4-24,-,contact friends for party planning
+65a966fc58b8be6e6a5c25df,29,Sales Presentation,Prepare for upcoming sales presentation,Sales team,20-04-2024,high,In progress,Work,5-4-24,-,create presentation materials
+65a966fc58b8be6e6a5c25e0,30,Yoga And Meditation,practice yoga and meditation routine,-,30-4-24,Low,Not Started,Personal,10-4-24,-,find suitable guided meditation sessions
+65a966fc58b8be6e6a5c25e1,31,Community Event Planning,Organize a community event,Community Team,05-05-2024,high,Not Started,Work,15-4-24,-,brainstorm ideas and set initial plans
+65a966fc58b8be6e6a5c25e2,32,Software Development,code new features for the application,Development Team,10-05-24,high,In progress,Work,25-4-24,-,implement user feedback and improvements
+65a966fc58b8be6e6a5c25e3,33,Home Organisation,Declutter and organize Living space,-,15-5-24,medium,Not Started,Personal,1-5-24,-,donate unused items to charity
+65a966fc58b8be6e6a5c25e4,34,Team Bonding Activity,Plan Team Building Activity,team Leader,20-5-24,high,Not Started,Work,5-5-24,-,explore Team building options
+65a966fc58b8be6e6a5c25e5,35,Project Milestone Review,Review completion of prjoect milestones,project team,25-5-24,high,In progress,Work,10-5-24,-,assess progress and plan next step
+65a966fc58b8be6e6a5c25e6,36,Cooking Class,attend a cooking class,-,1-6-24,Low,Not Started,Personal,15-5-24,-,check local classes for availibility
+65a966fc58b8be6e6a5c25e7,37,Quarterly Buisness Review,prepare for quaterly buisness review,Management Team,5-6-24,high,Not Started,Work,20-5-24,-,compile financial and operational data
+65a966fc58b8be6e6a5c25e8,38,Hiking Adventure,prepare a weekend hiking trip,-,10-6-24,Low,Not Started,Personal,1-6-24,-,research hiking trials and pack essentials
+65a966fc58b8be6e6a5c25e9,39,Marketing Campaign Launch,launch new marketing campaign,Marketing Team,15-6-24,high,Not Started,Work,5-6-24,-,coordinate with design and content teams
+65a966fc58b8be6e6a5c25ea,40,Financial Report analysis,analyze financial reports for the quarter,Finance Team ,20-6-24,high,In progress,Work,10-6-24,-,review revenue and expense trends
+65a966fc58b8be6e6a5c25eb,41,Financial Picnic,Organize a family picnic,,6/25/2024,Low ,Not  started,Personal,6-15-24,-,Select a suitable location and plan activities
+65a966fc58b8be6e6a5c25ec,42,Software Testing,Conduct testing for software release,QA Team,6/30/2024,High,Not Started,Work,     20/06/2024,-,Create test scenarios and execute tests
+65a966fc58b8be6e6a5c25ed,43,Art exhibition,Visit Local Art exhibition,,7/1/2024,Low,Not Started,Personal,    25/06/2024,-,Check Exhibition schedule and artists
+65a966fc58b8be6e6a5c25ee,44,Project Presentation ,Prepare for Project Presentation,Project team,7/5/2024,High,In progress,Work,     1/07/2024,-,Create slides and rehearse
+65a966fc58b8be6e6a5c25ef,45,Vacation Planning,Plan summer vacation,,7/10/2024,Medium,Not Started,Personal,     1/07/2024,-,Research destination and accomomodation
+65a966fc58b8be6e6a5c25f0,46,Employee Training,Conduct training session for employees,          HR Team,7/15/2024,High,Not Started,Work,        1/01/1900,-,Develop training materials and agenda
+65a966fc58b8be6e6a5c25f1,47,Beach Cleanup,Participate in local beach Cleanup,,7/20/2024,Medium,Not Started,Personal,     10/07/2024,-,Coordinate with local environmental group
+65a966fc58b8be6e6a5c25f2,48,Mobile App Development,Develop new features for mobile app,      Mobile Team,7/25/2024,High,In progress,Work,     15/07/2024,-,implement user feedback and improvements
+65a966fc58b8be6e6a5c25f3,49,Skill development course,Enroll in a Skill development Course,,7/30/2024,Low,Not Started,Personal,      20/07/2024,-,Browse online courses and choose one
+65a966fc58b8be6e6a5c25f4,50,Project Wrap-Up,Finalize project documentation and wrap-up ,      project team,8/1/2024,High,Not Started,Work,     25/07/2024,-,Complete project report and documentation
